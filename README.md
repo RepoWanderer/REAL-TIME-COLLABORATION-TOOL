@@ -20,7 +20,7 @@ The web app displays a list of online collaborators for each document. Users can
 
 ### 3. Email Verification
 <p align="center">
-  <img width="521" alt="Email Verification" src="https://github.com/Slacky300/REAL_TIME_EDIFY/assets/98531038/1ecad94d-eb4b-408c-9b84-9434a9994461">
+  <img width="521" alt="Email Verification" src="https://github.com/">
 </p>
 
 To enhance security and user authentication, RealTimeEdify implements email verification for user accounts. Users receive an email with a verification link upon registration.
